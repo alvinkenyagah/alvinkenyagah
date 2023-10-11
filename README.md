@@ -1,4 +1,4 @@
-<a href="#"><img align="right" height=290 src="./assets/hacker.png"></a>
+<a href="#"><img align="right" height=290 src="assests\hacker.png"></a>
 <h2>Hi there , I am <i>Alvin Kenyagah 👋</i></h2>
 Passionate about <b>Linux, Android, web development</b>.
 <br /><br />
