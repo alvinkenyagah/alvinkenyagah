@@ -25,3 +25,8 @@ Passionate about <b>Linux, Android and web development</b>.
 </a>
 
 </div>
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
