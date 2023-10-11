@@ -1,6 +1,6 @@
 <a href="#"><img align="right" height=290 src="assests\hacker.png"></a>
 <h2>Hi there , I am <i>Alvin Kenyagah 👋</i></h2>
-Passionate about <b>Linux, Android, web development</b>.
+Passionate about <b>Linux, Android and web development</b>.
 <br /><br />
 
 <!-- Badges -->
