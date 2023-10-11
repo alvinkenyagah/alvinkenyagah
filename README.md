@@ -15,11 +15,12 @@ Passionate about <b>Linux, Android and web development</b>.
 
 <div  list-style: none;>
 
-<a  href="https://www.linkedin.com/in/alvinkenyagah">
+<a  href="https://www.linkedin.com/in/alvinkenyagah" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a>
-<a  href="https://twitter.com/intent/follow?screen_name=alvinkenyagahl">
+<a  href="https://twitter.com/intent/follow?screen_name=alvinkenyagah" target="_blank">
    <img src="https://img.shields.io/twitter/follow/alvinkenyagah" alt="twitter">
 </a>
 
 </div>
+
