@@ -1,5 +1,5 @@
 <a href="#"><img align="right" height=290 src="assests\hacker.png"></a>
-<img src="https://profile-counter.glitch.me/alvinkenyagah/count.svg" style="text-align:center" />
+<img align="center" src="https://profile-counter.glitch.me/alvinkenyagah/count.svg"/>
 
 <h2>Hi there , I am <i>Alvin Kenyagah 👋</i></h2>
 I am passionate about <b>Linux, Android and web development</b>.
