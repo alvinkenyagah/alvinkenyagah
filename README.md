@@ -23,6 +23,6 @@ I am passionate about <b>Linux, Android and web development</b>.
 <a  href="https://twitter.com/intent/follow?screen_name=alvinkenyagah" target="_blank">
    <img src="https://img.shields.io/twitter/follow/alvinkenyagah" alt="twitter"></a>  
    </br>
-   <img align="right" height="15" src="https://profile-counter.glitch.me/alvinkenyagah/count.svg"/> 
+   <img height="15" src="https://profile-counter.glitch.me/alvinkenyagah/count.svg"/> 
 
 </div>
