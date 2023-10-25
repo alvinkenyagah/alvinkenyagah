@@ -1,5 +1,5 @@
 <a href="#"><img align="right" height=290 src="assests\hacker.png"></a>
-<h2>Hi there <img src="https://gifer.com/embed/5AB6" width="54" alt="i"/>, I am <i>Alvin Kenyagah </i></h2>
+<h2>Hi there <img src="./assests/wav.gif" width="54" alt="i"/>, I am <i>Alvin Kenyagah </i></h2>
 I am passionate about <b>Linux, Android and web development</b>.
 
 
