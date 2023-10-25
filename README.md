@@ -1,5 +1,5 @@
 <a href="#"><img align="right" height=290 src="assests\hacker.png"></a>
-<h2>Hi there <img src="https://img.stickers.cloud/packs/ea52ba8a-412e-4dea-888e-f5d33139926c/png/c063b55f-0167-40fd-a90e-316a05a382a5.png" width="36" alt="i"/>, I am <i>Alvin Kenyagah </i></h2>
+<h2>Hi there, I am <i>Alvin Kenyagah </i> <img src="https://img.stickers.cloud/packs/ea52ba8a-412e-4dea-888e-f5d33139926c/png/c063b55f-0167-40fd-a90e-316a05a382a5.png" width="42" alt="i"/> </h2>
 I am passionate about <b>Linux, Android and web development</b>.
 
 
