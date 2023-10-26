@@ -2,6 +2,8 @@
 <h2>Hi there, I am <i>Alvin Kenyagah </i> <a href="https://www.youtube.com/watch?v=IBQRrKovSuU" target="_blank"> <img src="https://img.stickers.cloud/packs/ea52ba8a-412e-4dea-888e-f5d33139926c/png/c063b55f-0167-40fd-a90e-316a05a382a5.png" width="64" alt="i"/></a> </h2>
 I am passionate about <b>Linux, Android and web development</b>.
 
+<br/>
+
 <p align="left"> 
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
