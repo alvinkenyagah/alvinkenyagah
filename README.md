@@ -50,3 +50,8 @@ I am passionate about <b>Linux, Android and web development</b>.
    <img height="15" src="https://profile-counter.glitch.me/alvinkenyagah/count.svg"/> 
 
 </div>
+
+<p align="center">
+<a href=#><img src="contributions.svg"></a> 
+ </p>
+
